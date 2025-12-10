@@ -1,4 +1,4 @@
-import { GroupId, GroupStandings, Match, QualificationStatus, QualifiedTeam, TeamConfig, TeamStats } from '../types';
+import { GroupId, GroupStandings, Match, QualifiedTeam, TeamConfig, TeamStats } from '../types';
 
 /**
  * Core Logic Class for FIFA 2026 Group Stage

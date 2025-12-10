@@ -223,7 +223,7 @@ const App: React.FC = () => {
             </div>
 
             <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-              {qualifiers.map((team, idx) => {
+              {qualifiers.map((team) => {
                  let statusColor = "bg-slate-100 text-slate-700";
                  if (team.qualificationStatus === 'Group Winner') statusColor = "bg-yellow-100 text-yellow-800 border-yellow-200";
                  if (team.qualificationStatus === 'Runner-up') statusColor = "bg-slate-200 text-slate-800 border-slate-300";
