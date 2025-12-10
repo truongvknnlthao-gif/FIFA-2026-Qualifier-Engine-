@@ -1,0 +1,5 @@
+{
+  "name": "FIFA 2026 Qualifier Engine",
+  "description": "Core logic implementation for the 48-team World Cup group stage qualification rules, including complex tie-breakers and best 3rd-place calculations.",
+  "requestFramePermissions": []
+}
